@@ -1,0 +1,9 @@
+nginx:
+    image: nginx
+    ports:
+        - "80:80"
+        - "443:443"
+    volumes:
+        - ./www:/usr/share/nginx/html
+        - ./nginx.conf:/nginx.conf
+    command: nginx -c /nginx.conf
