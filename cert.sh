@@ -12,3 +12,4 @@ rm $path/certs/letsencrypt-intermediate.pem
 rm $path/certs/pre.$domain.crt
 rm $path/certs/$domain.csr
 docker-compose stop
+docker-compose rm -f
