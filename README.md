@@ -22,6 +22,7 @@ You know how to do it. :)
 ```
 sh cert.sh
 ```
+Then type your domain and press Enter.
 
-Then you can find your key and cert in docker-lesencrypt/certs/
+Wait for a moment, and you can find your key and cert in docker-lesencrypt/certs/
 ####Have fun :)
