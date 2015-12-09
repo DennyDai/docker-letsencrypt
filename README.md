@@ -5,7 +5,7 @@ Easily get your "Let's Encrypt" SSL Certificates
 **PLEASE READ THE SOURCE CODE! YOU MUST TRUST IT WITH YOUR PRIVATE KEYS!**
 
 ## How to use this script
-**You need have openssl, docker and docker-compose installed first. Then follow the steps below.**
+**You must have [docker-compose](https://github.com/docker/compose/blob/master/docs/install.md) installed first. Then follow the steps below.**
 ### Step 1: Create a Let's Encrypt account private key (if you haven't already)
 
 You must have a public key registered with Let's Encrypt and sign your requests
