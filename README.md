@@ -1,4 +1,4 @@
-# Docker-LetsEncrypt
+# Docker-LetsEncrypt (*Deprecated*)
 
 Easily get your "Let's Encrypt" SSL Certificates
 
